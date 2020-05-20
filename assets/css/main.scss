@@ -21,7 +21,7 @@ body {
 @media screen and (min-width:$large-breakpoint) {
    #sidebar .site-title {display:none} /* a hash is an ID, a dot is a class. each element can only have one ID, as many classes as you want */
    h1 {font-weight: 500;}
-   li {font-size: 12.5pt;}
+   li {font-size: 12.5pt; text-align: justify;}
    #mobile_header {display:none;}
    body {background-image: linear-gradient(to bottom, white, gainsboro);}
    #mobile_appear {display:none !important;}
@@ -52,10 +52,6 @@ body {
 	font-family: 'Open Sans';
 }
 
-
-li {
-	text-align: justify;
-}
 
 h2 {
 	font-weight: 500;
