@@ -1,0 +1,108 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+$sidebar-bg-color: #eeeeee !default;
+$sidebar-fg-color: black !default;
+$sidebar-sticky: true !default;
+$layout-reverse: false !default;
+$link-color: #268bd2 !default;
+$root-font-family: 'Open Sans', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
+
+@import "hydeout";
+
+/*
+body {
+	background-image: linear-gradient(to bottom, white, #f4d277);
+} */
+
+/*  This is just what happens when the screen is wider than 785px, so desktop view  */
+
+@media screen and (min-width:$large-breakpoint) {
+   #sidebar .site-title {display:none} /* a hash is an ID, a dot is a class. each element can only have one ID, as many classes as you want */
+   h1 {font-weight: 500;}
+   li {font-size: 12.5pt;}
+   #mobile_header {display:none;}
+   body {background-image: linear-gradient(to bottom, white, gainsboro);}
+   #mobile_appear {display:none !important;}
+}
+
+
+/*  The following are mobile-specific styles, so display being less than 785px  */
+
+@media screen and (max-width:$large-breakpoint) {
+    #sidebar .site-title {display:absolute;}
+    .kaomoji_footer {display: none;}
+   h1 {font-weight: 500; text-align: center; line-height: 150%; padding-bottom: 20pt;}
+   .page-title {width: 350px; padding-top: 20px; border-bottom: 1px solid #268bd2; margin: auto;}
+     /*h1 {font-weight: 500; text-align: center; line-height: 150%; padding-bottom: 10pt; border-bottom: #268bd2 0.7px solid;}*/
+   #mobile_header {border:none;}
+   body {margin-left: 10px; margin-right: 10px; background-image: none; background-color: #f8f8f8}
+   .content {background: #f8f8f8;}
+   .home #sidebar header ~ *, .home #sidebar p.lead {display:none;}
+   #sidebar {padding: 0.5rem;}
+   #mobile_appear {display:contents !important; margin-left: 100px; text-align: center;}
+   #mobile_twitter_logo {margin: auto; margin-top: 35px; margin-bottom: 20px;}
+}
+
+.mobile {border: #268bd2 0.3px solid; width: 30%; margin: auto;}
+
+#sidebar .site-title
+{
+	font-family: 'Open Sans';
+}
+
+
+li {
+	text-align: justify;
+}
+
+h2 {
+	font-weight: 500;
+	padding-bottom: 15px;
+}
+
+strong {
+	font-weight: 600;
+}
+
+.kaomoji_footer_container {
+	bottom: 60px;
+	position: fixed;
+}
+
+.kaomoji_footer {
+	max-height: 25px;
+	font-size: 12px;
+	float: left;
+	padding-right: 30px;
+}
+
+#sidebar {
+	top: 0;
+}
+
+
+/* the following gets rid of an h1 that puts too much space between the twitter birdie and the nav page in mobile view */
+
+h1.site-title {
+  display: none;
+}
+
+#sidebar a {
+	line-height: 250%;
+}
+
+#sidebar-icon-links {
+	position: fixed;
+	bottom: 0;
+}
+
+
+#sidebar p.lead {
+	width: 70%;
+	position: relative;
+	top: 0;
+	font-size: 30px;
+	border-bottom: #268bd2 0.8px solid;
+}

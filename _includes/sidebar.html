@@ -1,0 +1,27 @@
+{% if page.layout == "index" %}
+	<div id = mobile_header>
+		<h1 class = "mobile_index_header">Hey,</br />I'm Łukasz!</h1><hr class = "mobile" /><a href="https://twitter.com/sharedshadows" target = "_blank"><img id= "mobile_twitter_logo" src="/images/icon-twitter.svg" height = 18px width = 18px alt = "twitter logo"/></a>
+	</div>
+
+{% endif %}
+
+<div id="sidebar">
+  <header>
+    <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+      <a href="{{ "/" | relative_url }}">
+        {% unless page.url == "/" %}
+          <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span> Main site
+        {% endunless %}
+      </a>
+    </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+    <p class="lead">{{ site.description }}</p>
+  </header>
+  {% include sidebar-nav-links.html %}
+
+  {% if site.version %}
+    <span class="site-version">Currently v{{ site.version }}</span>
+  {% endif %}
+
+  <!-- >{% include sidebar-icon-links.html %}
+  {% include copyright.html %} -->
+</div>
