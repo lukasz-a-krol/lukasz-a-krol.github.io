@@ -95,11 +95,18 @@ h1.site-title {
 	bottom: 0;
 }
 
-
 #sidebar p.lead {
 	width: 70%;
 	position: relative;
 	top: 0;
 	font-size: 30px;
 	border-bottom: #268bd2 0.8px solid;
+}
+
+.infobox {
+  background-color: #f0f0f0;
+  font-size: 11pt;
+  padding: 30px;
+  line-height: 180%;
+  border: 1px dotted #333333;
 }
