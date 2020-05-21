@@ -51,7 +51,7 @@ The following is a selected list of talks, projects, and articles I've done over
 
 * <strong>Talk:</strong> [Algorytmy, media społecznościowe oraz dziennikarstwo](https://www.youtube.com/watch?v=wZRwwBh1TAk){:target="_blank"} (Algorithms, social media, and journalism), <i>Media Przyszłości, Warsaw, Poland</i>
 
-* <strong>Talk:</strong> AI, Machine Learning, and Journalism, <i>ARIJ19, Dead Sea, Jordan</i>
+* <strong>Talk:</strong> AI, Machine Learning, and Journalism, <i>ARIJ18, Dead Sea, Jordan</i>
 
 * <strong>Talk:</strong> How to be Human in an Age of Machine Learning and feel vaguely useful, <i>DataFest Tbilisi, Georgia</i>
 
