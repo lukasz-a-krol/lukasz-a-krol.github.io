@@ -1,6 +1,9 @@
 ---
 layout: page
 permalink: /due_diligence/
+custom_css: longtext
+title: due diligence
+sidebar_link: false
 ---
 &nbsp;
 
@@ -50,13 +53,17 @@ The Signal messenger received a court order some time ago which asked for plenty
 Something similar happened with a VPN called Private Internet Access (PIA), which was <a href = "https://www.scribd.com/doc/303226103/Fake-bomb-threat-arrest" target = "_blank">unable to provide any meaningful data for the FBI when requested</a>. Since the consequences of lying to the FBI can be pretty dire, it is safe to assume that PIA collects very little user data.
 </p>
 
-### In which country is the product and its developers based?
+### Where is the product and its developers based?
 
-The jurisdiction in which a product, its developers, and servers are based can prove to be very important.
+The jurisdiction in which a product, its developers, and servers are based can prove to be very important. Laws on issues such as encryption, government access to cloud data, and privacy differ from country to country. Not only this, but if the maintainers of a certain product live in a country where intelligence agencies are known to significantly abuse their power, they could be pressured or blackmailed into inserting backdoors or accessing cloud data.
 
+Some companies mention their jurisdiction in their marketing materials. The team behind the ProtonMail encrypted email service, for example, frequently writes about how it is based in Switzerland, arguing that the country has very strong privacy protections. Many VPN providers will also talk about the jurisdiction in which they are located, arguing that it keeps them safe from governments who want to log connection data.
+
+Whenever you think about the jurisdiction of the services you use, remember your threat model. Different governments could be a risk for different people. It's also worth asking whether or not the service is in any way lying about issues related to jurisdiction.
 <br>
 <p class = "infobox">
-NordVPN, Telegram
+Zoom offers people the ability to transfer their data just through servers located in a specific geographical zone. Some cloud providers can also guarantee that your data will only be stored on EU-based servers (which is also a legal requirement for some organisations). <br><br>
+At the same time, not all companies are completely transparent as to their jurisdiction. Telegram claims not to have any employees working in Russia, <a href = "https://theoutline.com/post/2348/what-isn-t-telegram-saying-about-its-connections-to-the-kremlin?zd=1&zi=e7irfclt" target = "_blank">though there are reports to the contrary.</a> Similarly, there are plenty of anecdotal reports of NordVPN's employees being based in the Baltic States, in spite of denials by the company that this is the case.
 </p>
 ### Any ongoing controversies about this product?
 

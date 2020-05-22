@@ -1,0 +1,17 @@
+
+
+p{
+  font-size: 12pt;
+  margin-bottom: 0.5rem;
+  text-align: justify;
+}
+
+li {
+  font-size: 12pt;
+}
+
+h3 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  border-top: 1px dashed gray;
+}
