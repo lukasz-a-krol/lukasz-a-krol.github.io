@@ -12,9 +12,9 @@ The following is a selected list of talks, projects, and articles I've done over
 &nbsp;
 &nbsp;
 
-## 2020
+<h2 class = "year">2020</h2>
 
-* <b>Major project:</b> Started working on a digital security <a href = "/due_diligence">due diligence</a> checklist for small NGOs and media groups, presented it at the <a href = "https://safetag.org/2020/05/26/virtual-orgsec-village.html" target = "_blank">Internet Freedom Festival's OrgSec Village</a>.
+* <b>Research:</b> Started working on a digital security <a href = "/due_diligence">due diligence</a> checklist for small NGOs and media groups, presented it at the <a href = "https://safetag.org/2020/05/26/virtual-orgsec-village.html" target = "_blank">Internet Freedom Festival's OrgSec Village</a>.
 
 * <b>Webinar series:</b> Co-organised and moderated a series of digital affairs webinars with [DCN SEE](http://dcn-see.org/){:target="_blank"}, the Digital Communication Network's Southeast Europe Hub
 
@@ -27,7 +27,7 @@ The following is a selected list of talks, projects, and articles I've done over
 &nbsp;
 &nbsp;
 
-## 2019
+<h2 class = "year">2019</h2>
 
 
 * <b>Major project:</b> Programme designer and head facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2019 summer school
@@ -49,7 +49,7 @@ The following is a selected list of talks, projects, and articles I've done over
 &nbsp;
 &nbsp;
 
-## 2018
+<h2 class = "year">2018</h2>
 
 * <b>Major project:</b> Programme designer and head facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2018 summer school
 
@@ -67,7 +67,7 @@ The following is a selected list of talks, projects, and articles I've done over
 
 
 
-## 2017
+<h2 class = "year">2017</h2>
 
 * <b>Major project:</b> Programme co-designer and assistant facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2017 summer school
 
@@ -82,6 +82,6 @@ The following is a selected list of talks, projects, and articles I've done over
 &nbsp;
 
 
-## 2016
+<h2 class = "year">2016</h2>
 
 * <b>Article:</b> [Digital foreign policy: how digital tools can further Europe’s foreign policy goals](https://link.springer.com/article/10.1007/s12290-016-0384-8){:target="_blank"}, <i>European View</i>
