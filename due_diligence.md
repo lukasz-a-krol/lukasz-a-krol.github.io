@@ -53,6 +53,18 @@ The Signal messenger received a court order some time ago which asked for plenty
 Something similar happened with a VPN called Private Internet Access (PIA), which was <a href = "https://www.scribd.com/doc/303226103/Fake-bomb-threat-arrest" target = "_blank">unable to provide any meaningful data for the FBI when requested</a>. Since the consequences of lying to the FBI can be pretty dire, it is safe to assume that PIA collects very little user data.
 </p>
 
+### What data or permissions does this product require from you?
+
+Whenever we sign up to a new service, we have to give a certain amount of personal data. It might be as little as a username, or it might be much more. Whenever you sign up to a new service - especially one that feels marketed towards people interested in security or privacy, ask yourself whether or not this service is asking for more data than it really needs to deliver the product. If the service were to be broken into or sold, then you are at a far smaller risk if it doesn't hold much data on you.
+
+Similarly, when installing a new app, either for your phone or computer, think about the permissions it requires and only give it those that are absolutely necessary. If an app requests an unreasonably large amount of permissions and cannot justify why those are necessary - avoid it.
+
+<p class = "infobox">
+Some VPN services allow for completely anonymous sign-in, even using codes instead of emails as not to associate users with any other services or accounts. Mullvad, for example, <a href = "https://mullvad.net/en/blog/2017/6/20/mullvads-account-numbers-get-longer-and-safer/" target = "_blank">uses a sixteen digit account number. </a> In some cases, a fully anonymous registration might not be practically possible. ProtonMail, for example, <a href = "https://protonmail.com/support/knowledge-base/human-verification/" target = "_blank">requires some users to verify an email or SMS code as an anti-spam measure.</a> This is much better than sites that have a real name policy or services that require login via a discrete email account. Whenever a site asks for data from you, think about the reasons (security, business, anti-spam) for which it might be interested in this information. If you think that the benefits or tradeoff are not worth it for you - avoid the service.
+
+You can apply a similar logic to apps as well. A writing app might ask for microphone access, for example if it offers a transcription or audio notes service. It might request access to your contacts for easy sharing. If it, however, fails to function without those settings, or does not document and explain why it requires those permissions, it's best to avoid the service.
+</p>
+
 ### Where is the product and its developers based?
 
 The jurisdiction in which a product, its developers, and servers are based can prove to be very important. Laws on issues such as encryption, government access to cloud data, and privacy differ from country to country. Not only this, but if the maintainers of a certain product live in a country where intelligence agencies are known to significantly abuse their power, they could be pressured or blackmailed into inserting backdoors or accessing cloud data.
