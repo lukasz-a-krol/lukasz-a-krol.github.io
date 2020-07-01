@@ -2,7 +2,7 @@
 
 layout: page
 permalink: /digisec_content/
-title: Digital security
+title: Resources
 sidebar_link: true
 sidebar_sort_order: 123
 ---
