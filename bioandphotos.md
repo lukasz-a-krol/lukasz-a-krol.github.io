@@ -13,8 +13,5 @@ With a background in technology and political science, Łukasz studies the ways 
 
 ### Lecturing photos:
 
-<a href = "/images/point-speaking-photo.jpg"><img src = "/images/point-speaking-photo-small.jpg"></a>
-<a href = "/images/brussels-speaking-photo.jpg"><img src = "/images/brussels-speaking-photo-small.jpg"></a>
-
-
-
+<a href = "/images/point-speaking-photo.jpg" alt = "photo of Łukasz asking a question at a crowded conference"><img src = "/images/point-speaking-photo-small.jpg"></a>
+<a href = "/images/brussels-speaking-photo.jpg" alt = "photo of Łukasz lecturing on a white background"><img src = "/images/brussels-speaking-photo-small.jpg"></a>

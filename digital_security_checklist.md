@@ -33,7 +33,7 @@ sidebar_link: false
 #### Passwords and authentication
 
 * Have you installed a password manager?
-* Are all your passwords unique and hard to guess?
+* Are all your passwords/ passphrases unique and hard to guess?
 * Have you enabled two factor authentication, wherever possible?
 * For your key accounts (email, social), have you enable authentication via a physical or Bluetooth security key?
 
