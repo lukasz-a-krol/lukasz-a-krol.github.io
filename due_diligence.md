@@ -2,18 +2,17 @@
 layout: page
 permalink: /due_diligence/
 custom_css: longtext
-title: due diligence
+title: a couple of questions to ask when picking tools and services
 sidebar_link: false
 ---
 &nbsp;
 
 
 <!-- don't forget that drafts of this file may be in .gitignore -->
-## A couple of questions to ask when doing due diligence
 
-*A single security training cannot possibly cover all the tools and services that there are out there. Not only this, but tools and services change. New ones appear, old ones become deprecated or lose their secure reputation, and some of our favourite tools can change names and branding. Someone who would have undergone a digital security training several years ago might have been taught to use TextSecure, but times change and this tool has now been replaced by Signal.*
+A single security training cannot possibly cover all the tools and services that there are out there. Not only this, but tools and services change. New ones appear, old ones become deprecated or lose their secure reputation, and some of our favourite tools can change names and branding. Someone who would have undergone a digital security training several years ago might have been taught to use TextSecure, but times change and this tool has now been replaced by Signal.
 
-*Still - the digital security space can be difficult to navigate. As such, I've drafted a couple of questions that journalists, activists, and others could use when deciding which security tools and services to adopt. Those questions are definitely not meant to be comprehensive, but aim to start and spark discussions.*
+Still - the digital security space can be difficult to navigate. As such, I've drafted a couple of questions that journalists, activists, and others could use when deciding which security tools and services to adopt. Those questions are definitely not meant to be comprehensive, but aim to start and spark discussions.
 
 
 ### What do people say about this product?
