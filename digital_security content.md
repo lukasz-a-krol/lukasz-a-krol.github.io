@@ -11,5 +11,5 @@ sidebar_sort_order: 123
 
 Check out some digital security guides I've created, including:
 
-* [A guide to due diligence](/due_diligence/)
+* [Questions to ask when picking digital security tools and services](/due_diligence/)
 * [A digital security checklist](/digisec_checklist/)
