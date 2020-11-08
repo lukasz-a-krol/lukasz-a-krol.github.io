@@ -2,7 +2,7 @@
 layout: page
 permalink: /due_diligence/
 custom_css: longtext
-title: a couple of questions to ask when picking tools and services
+title: Questions to ask when picking tools and services
 sidebar_link: false
 ---
 &nbsp;
