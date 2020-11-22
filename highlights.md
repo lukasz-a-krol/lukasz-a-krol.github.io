@@ -20,6 +20,8 @@ The following is a selected list of talks, projects, and articles I've done over
 
 * <b>Research:</b> Started working on a digital security <a href = "/due_diligence">due diligence</a> checklist for small NGOs and media groups, presented it at the <a href = "https://safetag.org/2020/05/26/virtual-orgsec-village.html" target = "_blank">Internet Freedom Festival's OrgSec Village</a>
 
+* <b>Interview:</b> Conducted [an interview](https://www.youtube.com/watch?v=OZ2n4ccW2Yw) on data-driven democracy with Stefan Turkheimer
+
 * <b>Webinar series:</b> Co-organised and moderated a series of digital affairs webinars with [DCN SEE](http://dcn-see.org/){:target="_blank"}, the Digital Communication Network's Southeast Europe Hub
 
 * <b>Major project:</b> Programme designer and head facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2020 summer school
