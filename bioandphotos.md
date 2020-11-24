@@ -7,7 +7,7 @@ permalink: /bioandphotos/
 
 ### Bio:
 
-Łukasz is a researcher, lecturer, facilitator, and digital security trainer. With a background in technology and political science, he studies the ways in which we can bridge our technological and social realities. Łukasz currently focuses on as digital security teaching pedagogies and tool selection, algorithmic bias, and the wider relationship between humans and technology.
+Łukasz is a researcher, lecturer, facilitator, and digital security trainer. With a background in technology and political science, he studies the ways in which we can bridge our technological and social realities. Łukasz currently focuses on digital security teaching pedagogies and tool selection, algorithmic bias, and the wider relationship between humans and technology.
 
 &nbsp;
 
