@@ -8,3 +8,6 @@ sidebar_link: false
 
 
 ## Login successful!
+
+<br><br>
+<a href = "/loginsample/">go back</a>

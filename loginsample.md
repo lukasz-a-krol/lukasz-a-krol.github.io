@@ -7,11 +7,20 @@ sidebar_link: false
 ---
 
 
-## Hi!
 
-#### Here we demonstrate how to use a password manager!
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Login form sample</title>
+  </head>
+  <body>
+  <h1>Hi!</h1>
+  <h2>Here we demonstrate how to use a password manager!</h2>
+  <br><br>
+  <input type="text" placeholder="Please enter your username" name="login"> <br><br>
+  <input type="password" placeholder="Please enter your password" name="pwd"><br><br>
+  <a href = "/successfullogin/"><button type="submit">Login</button></a>
 
-<br><br>
-<input type="text" placeholder="Please enter your username" name="login"> <br><br>
-<input type="password" placeholder="Please enter your password" name="pwd"><br><br>
-<a href = "/successfullogin/"><button type="submit">Login</button></a>
+  </body>
+</html>
