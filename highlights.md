@@ -14,6 +14,8 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2020</h2>
 
+* <b>Trainings:</b> Led remote digital security classes for Lebanese students
+
 * <b>Trainings:</b> Led digital security classes for activists and journalists as part of the <i>Digital and Media Literacy for NGOs</i> training organised by the <a href = "https://digicomnet.org/" target = "_blank">Digital Communication Network</a>
 
 * <b>Trainings:</b> Attended the month-long <a href = "https://usable.tools/axis2020/" target = "_blank">AXIS</a> programme, both as a participant and a skillshare speaker
@@ -26,7 +28,7 @@ The following is a selected list of talks, projects, and articles I've done over
 
 * <b>Major project:</b> Programme designer and head facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2020 summer school
 
-* <b>Trainings:</b> Led digital security classes for journalists (Sarajevo)
+* <b>Trainings:</b> Led digital security classes for activists (Sarajevo)
 
 * <b>Major project:</b> Advised the leadership of a university on transitioning to an all-remote culture and communicating to students and others during the Covid-19 pandemic (Warsaw)
 
