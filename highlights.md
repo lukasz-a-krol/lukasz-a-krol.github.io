@@ -12,6 +12,16 @@ The following is a selected list of talks, projects, and articles I've done over
 &nbsp;
 &nbsp;
 
+<h2 class = "year">2021</h2>
+
+
+* <b>Talk:</b> Co-organised and moderated <a href = "https://www.youtube.com/watch?v=gjkQS_7TSVA" target = "_blank">a discussion</a> on recommendation algorithms for Fulbright Poland
+
+
+
+&nbsp;
+&nbsp;
+
 <h2 class = "year">2020</h2>
 
 * <b>Trainings:</b> Led remote digital security classes for Lebanese students
