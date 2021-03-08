@@ -16,6 +16,8 @@ The following is a selected list of talks, projects, and articles I've done over
 
 * <b>New job:</b> Started working with <a href = "https://www.internews.org" target = "_blank">Internews</a> as a Digital Security Trianing Specialist for Central European Journalists
 
+* <b>Collaboration:</b> Worked as a peer reviewer on the Ford Foundation's <a href = "https://www.fordfoundation.org/work/our-grants/building-institutions-and-networks/cybersecurity-assessment-tool/" target = "_blank">Cybersecurity Assessment Tool</a>, which supports NGOs that want to assess and bolster their digital and operational security
+
 * <b>Talk:</b> Co-organised and moderated <a href = "https://www.youtube.com/watch?v=gjkQS_7TSVA" target = "_blank">a discussion</a> on recommendation algorithms for Fulbright Poland
 
 
