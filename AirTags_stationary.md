@@ -14,7 +14,7 @@ While most of the security research has focused on how moving AirTags could be u
 
 To test this out, I left an AirTag in my parked car, and went for a long walk. Unsurprisingly, I could go on the *Find My* App on my iPhone and see where my car was located (every AirTag is allocated an emoji, which is used to show its location on a map). But what was perhaps more interesting is *when* the location was last updated: 17 minutes ago. I had left my car much earlier, so my AirTag must have contacted—or pinged—other iPhones than my own.
 
-<img src = "../images/IMG_0185.PNG" height = "500px">
+<img src = "../images/IMG_0185.PNG" height = "300px">
 
 _Please note that all screenshots have been edited to preserve the privacy of those involved in the tests_
 
@@ -24,11 +24,11 @@ This, however, means that the AirTag can report on one more interesting fact—w
 
 To test it out, I left behind an AirTag at a friend's house and went for a day trip. I regularly hang out at said house, so it wouldn't be out of the ordinary that I might leave a backpack containing an AirTag behind. But it turned out that, by seeing their AirTag's last seen time, I could easily track whether or not my friend was home, just by seeing whether the AirTag was in the Bluetooth range of any iOS devices.
 
-<img src = "../images/IMG_0456.PNG" height = "500px">
+<img src = "../images/IMG_0456.PNG" height = "300px">
 
 I could easily tell that the AirTag had not pinged any devices for hours, suggesting an empty house.
 
-<img src = "../images/IMG_0458.PNG" height = "500px">
+<img src = "../images/IMG_0458.PNG" height = "300px">
 sadfasfdaf
 When my friend entered the house with a Bluetooth-enabled iPhone, it instantly connected to the AirTag, which I friend could also see after checking it on the *Find My* app. By detecting the presence of Apple devices, an abandoned AirTag could, by proxy, easily figure out whether or not somebody's house or office is currently empty.
 
@@ -36,11 +36,11 @@ To test this out further, I've been trying to measure the indoor range of AirTag
 
 An attacker or social engineer could, for example, go to a business meeting and conveniently "forget" and leave behind a folder with an AirTag in a meeting room or executive's office. They could then, with a certain degree of confidence, figure out when said room is empty of Apple devices, which in many cases would mean that it is empty of occupants as well. Even more chillingly, an AirTag left behind in somebody's flat could even pick up neighbours' Bluetooth signals, similarly giving an indication when they are out. We tested this with a friend here:
 
-<img src = "../images/IMG_0210.PNG" height = "500px">
+<img src = "../images/IMG_0210.PNG" height = "300px">
 
 As I went out for a bike ride with a friend, I left two AirTags, one at each end of a flat. One of them kept on pinging a device that was part of Apple's *Find My* network, the other one did not. This suggests that a neighbour in the block, and one who had a flat south of ours, had a device such as an iPhone on them. This isn't just information visible to a potential malicious attacker: anybody who left an AirTag behind at their phone could deduce the activity in their flat or the flats around them based on the prior pings the tag received.
 
-<img src = "../images/IMG_0212.PNG" height = "500px">
+<img src = "../images/IMG_0212.PNG" height = "300px">
 
 The moment my friend re-entered the flat with a Bluetooth-enabled phone, both of my AirTags instantly connected to it. Any potential attacker who left an AirTag—or several—in a flat would instantly know that its occupant had returned (unless every neighbour also had constantly pinging iPhones in range of that AirTag).
 
