@@ -9,7 +9,8 @@ sidebar_sort_order: 123
 
 &nbsp;
 
-Check out some digital security guides I've created, including:
+Check out some digital security resources I've created, including:
 
 * [Questions to ask when picking digital security tools and services](/due_diligence/)
 * [A digital security checklist](/digisec_checklist/)
+* [How stationary AirTags could track moving iPhones](/airtags_stationary/), featured in [VICE](https://www.vice.com/en/article/jg8mvy/airtags-can-be-used-to-figure-out-when-a-house-is-empty-researcher-warns)
