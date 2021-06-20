@@ -14,6 +14,10 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2021</h2>
 
+* <b>Publication:</b> Wrote about the <a href = "https://internews.org/blog/charting-the-security-needs-of-central-european-journalists/" target = "_blank">(digital) security needs of Central European journalists</a>
+
+* <b>Research:</b> Did some research on <a href = "/airtags_stationary/">using stationary AirTags to track moving objects</a>, which was <a href = "https://www.vice.com/en/article/jg8mvy/airtags-can-be-used-to-figure-out-when-a-house-is-empty-researcher-warns" target = "_blank">published by VICE Motherboard</a>
+
 * <b>New job:</b> Started working with <a href = "https://www.internews.org" target = "_blank">Internews</a> as a Digital Security Trianing Specialist for Central European Journalists
 
 * <b>Collaboration:</b> Worked as a peer reviewer on the Ford Foundation's <a href = "https://www.fordfoundation.org/work/our-grants/building-institutions-and-networks/cybersecurity-assessment-tool/" target = "_blank">Cybersecurity Assessment Tool</a>, which supports NGOs that want to assess and bolster their digital and operational security
