@@ -76,6 +76,12 @@ strong {
 	position: fixed;
 }
 
+img {
+  border-radius: 0%;
+}
+
+
+
 .kaomoji_footer {
 	max-height: 25px;
 	font-size: 12px;
@@ -93,6 +99,7 @@ strong {
 h1.site-title {
   display: none;
 }
+
 
 #sidebar a {
 	line-height: 250%;
@@ -119,4 +126,23 @@ h1.site-title {
   border: 1px dotted #333333;
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+
+.image-gallery {
+  width: 80%;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  font-family: 'IBM Plex Serif';
+  display: table;
+}
+
+/* The stuff below is just for the gallery/ photo view */
+
+#gallery_li {
+  list-style-type: none;
+}
+
+#galleryimg {
+  margin-bottom: 100px;
 }
