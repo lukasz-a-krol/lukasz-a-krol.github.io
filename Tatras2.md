@@ -1,6 +1,6 @@
 ---
 title: Tatras
-permalink: /gallery2/
+permalink: /gallery/
 layout: blank
 ---
 
