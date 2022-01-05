@@ -26,8 +26,9 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-email-protect
 
+gems:
+- jekyll-email-protect
 
 url: lukasz-a-krol.github.io
 baseurl: /
