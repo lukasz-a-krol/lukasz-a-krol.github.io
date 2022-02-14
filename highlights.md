@@ -12,7 +12,7 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2022</h2>
 
-
+* <b>Trainings:</b> Ran a digital security training for Fulbright scholars with the [Polish-U.S. Fulbright Commission](https://en.fulbright.edu.pl/){:target="_blank"}
 
 
 &nbsp;
@@ -21,7 +21,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <h2 class = "year">2021</h2>
 
 
-* <b>Interview:</b>[Každá šifrovaná komunikace má slabinu. Novináři to svým zdrojům neříkají vždy otevřeně](https://hlidacipes.org/kazda-sifrovana-komunikace-ma-slabinu-novinari-to-svym-zdrojum-ale-nerikaji-vzdy-otevrene/){:target="_blank"} (in Czech, interviewed by Jan Žabka), <i>HlídacíPes.org</i>
+* <b>Interview:</b> [Každá šifrovaná komunikace má slabinu. Novináři to svým zdrojům neříkají vždy otevřeně](https://hlidacipes.org/kazda-sifrovana-komunikace-ma-slabinu-novinari-to-svym-zdrojum-ale-nerikaji-vzdy-otevrene/){:target="_blank"} (in Czech, interviewed by Jan Žabka), <i>HlídacíPes.org</i>
 
 * <b>Talk:</b> Took part in the <a href = "https://freedom.press/" target = "_blank">Freedom of the Press Foundation's</a> last <a href = "https://www.twitch.tv/freedomofpress/videos" target = "_blank">Twitch stream</a> of the year!
 
