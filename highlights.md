@@ -9,6 +9,8 @@ permalink: /highlights/
 
 The following is a selected list of talks, projects, and articles I've done over the past years.
 
+&nbsp;
+&nbsp;
 
 <h2 class = "year">2022</h2>
 
