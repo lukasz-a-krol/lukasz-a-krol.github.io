@@ -9,13 +9,23 @@ permalink: /highlights/
 
 The following is a selected list of talks, projects, and articles I've done over the past years.
 
+
+<h2 class = "year">2022</h2>
+
+
+
+
 &nbsp;
 &nbsp;
 
 <h2 class = "year">2021</h2>
 
 
+* <b>Interview:</b>[Každá šifrovaná komunikace má slabinu. Novináři to svým zdrojům neříkají vždy otevřeně](https://hlidacipes.org/kazda-sifrovana-komunikace-ma-slabinu-novinari-to-svym-zdrojum-ale-nerikaji-vzdy-otevrene/){:target="_blank"} (in Czech, interviewed by Jan Žabka), <i>HlídacíPes.org</i>
+
 * <b>Talk:</b> Took part in the <a href = "https://freedom.press/" target = "_blank">Freedom of the Press Foundation's</a> last <a href = "https://www.twitch.tv/freedomofpress/videos" target = "_blank">Twitch stream</a> of the year!
+
+* <b>Major project:</b> Programme designer and consultant facilitator for the [WEASA](https://www.weasa.org){:target="_blank"} 2021 summer school
 
 * <b>Publication:</b> Wrote about the <a href = "https://internews.org/blog/charting-the-security-needs-of-central-european-journalists/" target = "_blank">(digital) security needs of Central European journalists</a>
 
