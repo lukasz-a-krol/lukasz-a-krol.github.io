@@ -20,10 +20,9 @@ paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-gems:
-- jekyll-email-protect
 
 plugins:
+  - jekyll-email-protect
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
