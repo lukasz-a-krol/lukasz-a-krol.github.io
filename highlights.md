@@ -9,6 +9,14 @@ permalink: /highlights/
 
 The following is a selected list of talks, projects, and articles I've done over the past years.
 
+
+&nbsp;
+&nbsp;
+
+<h2 class = "year">2023</h2>
+
+* <b>Trainings:</b> Organised a digital security training as part of a HEFAT (hostile environment/ first aid training), allowing me to better explore the interplay between digital and physical security and how our pedagogies can account for that
+
 &nbsp;
 &nbsp;
 
