@@ -3,6 +3,7 @@
 layout: page
 permalink: /digisec_content/
 title: Resources
+custom_css: page_with_header
 sidebar_link: true
 sidebar_sort_order: 123
 ---

@@ -7,6 +7,7 @@ sidebar_link: false
 ---
 &nbsp;
 
+_Published in May 2021, cited in [VICE Motherboard](https://www.vice.com/en/article/jg8mvy/airtags-can-be-used-to-figure-out-when-a-house-is-empty-researcher-warns)_
 
 On April 30th, 2021, Apple released a new product, called the AirTags. Those small, round devices can quickly find and track lost objects such as keys or bicycles. Almost instantly after the announcement, concerns emerged that AirTags could be also be used to track people, too. Apple did, to its credit, add some anti-stalking and anti-tracking mechanisms to the AirTags. An AirTag that is travelling with someone who is not its owner is meant to alert its target thereof, either through a notification (for those who have Apple devices with iOS 14.5 or higher) or through an audible noise that they make after three days. Only a few days after the AirTag's release, [many security experts](https://www.washingtonpost.com/technology/2021/05/05/apple-airtags-stalking/) [described their mechanisms as ineffective](https://mashable.com/review/apple-airtags-review/?europe=true): an AirTag slipped into somebody's coat pocket or backpack could easily have revealed their home address by the time the notification shows up or an alert rings.
 
@@ -52,4 +53,4 @@ In theory, any attacker could trivially build a Bluetooth scanner, or use anothe
 
 Notably, an AirTag cannot track somebody's presence in a room if they have disabled Bluetooth on their phones. Still, with Apple getting rid of the headphone jack in favour of wireless connections, the amount of iPhones with always-on Bluetooth is likely to increase even further in the near future.
 
-There is always room for hope. Apple could introduce updated, both the AirTag firmware and iOS, that might make such tracking more difficult to perform. Doing so might, however, reduce the effectiveness and granularity of the *Find My* network. Only time will tell what steps the tech giant will eventually take to further beef up the security of AirTags and its wider Find My network.
+There is always room for hope. Apple could introduce updates, both to the AirTag firmware and iOS, that might make such tracking more difficult to perform. Doing so might, however, reduce the effectiveness and granularity of the *Find My* network. Only time will tell what steps the tech giant will eventually take to further beef up the security of AirTags and its wider Find My network.

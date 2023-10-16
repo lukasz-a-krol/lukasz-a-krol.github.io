@@ -4,8 +4,9 @@
   {% include head.html %}
 
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
-
+    <div class = "hidiv"><span id = "lukasz_text_header">Łukasz Król</span><span aria-hidden="true" id = "kaomoji_span">(っ◔◡◔)っ</span></div>
     {% include sidebar.html %}
+
     <main class="container">
       {{ content }}
     </main>

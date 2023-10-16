@@ -22,7 +22,6 @@ paginate:         5
 
 
 plugins:
-  - jekyll-email-protect
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate

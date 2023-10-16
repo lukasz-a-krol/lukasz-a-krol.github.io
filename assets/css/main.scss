@@ -7,32 +7,54 @@ $sidebar-fg-color: black !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
-$root-font-family: 'Open Sans', BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif !default;
+$root-font-family: 'Inter';
 
 @import "hydeout";
 
-/*
+
 body {
-	background-image: linear-gradient(to bottom, white, #f4d277);
-} */
+	background: #ffffff;
+  color: #1E1E1E;
+  font-family: 'Inter';
+  font-size: 20pt;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%; /* 42px */
+}
+
+a {
+	color: #1E1E1E;
+	text-decoration-line: underline;
+}
+
+.hidiv {
+	visibility: hidden;
+}
+
+#external {
+	color: #1905FF;
+	text-decoration-line: underline;
+}
 
 /*  This is just what happens when the screen is wider than 785px, so desktop view  */
 
 @media screen and (min-width:$large-breakpoint) {
    #sidebar .site-title {display:none} /* a hash is an ID, a dot is a class. each element can only have one ID, as many classes as you want */
-   h1 {font-weight: 500;}
+	 h1 {font-weight: 500;}
    li {font-size: 12.5pt; text-align: justify;}
    #mobile_header {display:none;}
-   body {background-image: linear-gradient(to bottom, white, gainsboro);}
+   border: black;
    #mobile_appear {display:none !important;}
+	 #intouch_front {position: absolute; top: 0; right: 0;}
+	 .container {margin-left: 200px;}
 }
 
 
 /*  The following are mobile-specific styles, so display being less than 785px  */
 
 @media screen and (max-width:$large-breakpoint) {
-    #sidebar .site-title {display:absolute;}
-    .kaomoji_footer {display: none;}
+	 body {margin-left: 0px !important; margin-right: 0px !important; font-size: 20px !important;}
+	 #sidebar .site-title {display:absolute;}
    h1 {font-weight: 500; text-align: center; line-height: 150%; padding-bottom: 20pt;}
    .page-title {width: 200px; padding-top: 20px; border-bottom: 1px solid #268bd2; margin: auto;}
      /*h1 {font-weight: 500; text-align: center; line-height: 150%; padding-bottom: 10pt; border-bottom: #268bd2 0.7px solid;}*/
@@ -40,18 +62,21 @@ body {
    body {margin-left: 10px; margin-right: 10px; background-image: none; background-color: #f8f8f8}
    .content {background: #f8f8f8;}
    .home #sidebar header ~ *, .home #sidebar p.lead {display:none;}
-   #sidebar {padding: 0.5rem;}
+   #sidebar {padding: 0.5rem; line-height: 0; width: 100% !important; border-right: 0px !important;}
+	 #sidebar a {line-height: 0 !important; padding-left: 0px !important; font-size: 15px !important;}
    #mobile_appear {display:contents !important; margin-left: 100px; text-align: center;}
    #mobile_twitter_logo {margin: auto; margin-top: 35px; margin-bottom: 20px;}
    .container header {margin:auto;}
+	 #intouch_front {display: none;}
+	 #lukasz_text {font-size: 40px !important; letter-spacing: 0px !important;}
+	 #kaomoji_span {font-size: 10px !important; padding-left: 10px !important;}
+	 #frontpage {padding-top: 0px !important;}
+	 .site-title a {border: 0px !important; font-family: 'Inter'; margin-left: 15px !important;}
+	 .hidiv {height: 0px;}
 }
 
 .mobile {border: #268bd2 0.3px solid; width: 30%; margin: auto;}
 
-#sidebar .site-title
-{
-	font-family: 'Open Sans';
-}
 
 
 h2 {
@@ -60,39 +85,41 @@ h2 {
 }
 
 .year {
-  border-bottom: 1px dashed gray;
-  width: 100px;
+	color: #969696;
+	font-size: 60pt;
+	font-weight: 800;
   padding-bottom: 8px;
   margin-bottom: 18px;
 }
 
+.highlights_header {
+	color: #969696;
+	font-size: 17pt;
+}
+
+.highlights_text {
+	font-size: 17pt;
+	padding-bottom: 1.5rem;
+}
 
 strong {
 	font-weight: 600;
 }
 
-.kaomoji_footer_container {
-	bottom: 60px;
-	position: fixed;
-}
 
 img {
   border-radius: 0%;
 }
 
-
-
-.kaomoji_footer {
-	max-height: 25px;
-	font-size: 12px;
-	float: left;
-	padding-right: 30px;
+#frontpage {
+	padding-top: 30%;
 }
 
 #sidebar {
 	top: 0;
+	border-right: solid black 1px;
+	padding: 0 0 0 0;
 }
-
 
 /* the following gets rid of an h1 that puts too much space between the twitter birdie and the nav page in mobile view */
 
@@ -100,9 +127,68 @@ h1.site-title {
   display: none;
 }
 
+#intouch_front {
+	width: 324px;
+	padding-right: 77px;
+	padding-top: 37px;
+}
+
+#intouch_front_big {
+	color: #1E1E1E;
+	font-family: Inter;
+	font-size: 21pt;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 150%; /* 54px */
+	letter-spacing: -1.44px;
+
+}
+
+#intouch_front_small {
+	color: #1E1E1E;
+	font-family: Inter;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 120%; /* 19.2px */
+}
+
+#lukasz_text {
+	color: #1E1E1E;
+	font-family: Inter;
+	font-size: 100px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 150%;
+	letter-spacing: -3.923px;
+}
+
+#lukasz_text_header {
+	color: #1E1E1E;
+	font-family: Inter;
+	font-size: 50px;
+	padding-left: 50px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: 150%;
+}
+
+#kaomoji_span {
+	padding-left: 40px;
+}
 
 #sidebar a {
 	line-height: 250%;
+	border: solid black 1px;
+	font-weight: 700;
+	font-size: 15pt;
+	padding-left: 3rem;
+	padding-top: 1.1rem;
+	padding-bottom: 1.1rem;
+	/*I put the negative margins here so that two 1px borders next to each other don't overlap, creating a 2px border which looks thicker and therefore a bit off*/
+	margin-right: -1px;
+	margin-top: -1px;
+	text-decoration-line: none;
 }
 
 #sidebar-icon-links {
@@ -110,13 +196,6 @@ h1.site-title {
 	bottom: 0;
 }
 
-#sidebar p.lead {
-	width: 70%;
-	position: relative;
-	top: 0;
-	font-size: 30px;
-	border-bottom: #268bd2 0.8px solid;
-}
 
 .infobox {
   background-color: #f0f0f0;

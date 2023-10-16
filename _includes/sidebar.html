@@ -1,11 +1,9 @@
 {% if page.layout == "index" %}
-	<!--<div id = mobile_header>
-		<h1 class = "mobile_index_header">Hey,<br>I'm Łukasz!</h1><hr class = "mobile" /><a href="https://twitter.com/securislav" target = "_blank"><img id= "mobile_twitter_logo" src="/images/icon-twitter.svg" height = 18 width = 18 alt = "twitter logo"/></a>
-	</div> -->
+
 
 {% endif %}
 
-<div id="sidebar">
+<div id="sidebar" style = "width: 276px;">
   <header>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
@@ -14,7 +12,7 @@
         {% endunless %}
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
+
   </header>
   {% include sidebar-nav-links.html %}
 
