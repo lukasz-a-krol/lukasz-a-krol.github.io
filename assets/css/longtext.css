@@ -1,5 +1,32 @@
 
+@media (min-width: 49rem) {
+  .container {
+    padding: 8rem 1rem 0;
+    margin-left: 300px;
+    max-width: 38rem;}
 
+
+    .hidiv {
+      visibility: visible;
+      border-bottom: 1px solid black;
+    	height: 100px;
+    	position: fixed;
+    	width: 100%;
+      background: white;
+    }
+
+
+}
+
+p {
+  font-size: 16pt;
+}
+
+
+#sidebar {margin-top: 100px !important;}
+
+
+/* old longtext.scss
 p{
   font-size: 12pt;
   margin-bottom: 0.5rem;
@@ -15,3 +42,5 @@ h3 {
   padding-bottom: 15px;
   border-top: 1px dashed gray;
 }
+
+*/

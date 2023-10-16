@@ -8,6 +8,7 @@ sidebar_link: false
 &nbsp;
 
 
+_This piece was written and successively updated in late 2020/ early 2021_
 <!-- don't forget that drafts of this file may be in .gitignore -->
 
 A single security training cannot possibly cover all the tools and services that there are out there. Not only this, but tools and services change. New ones appear, old ones become deprecated or lose their secure reputation, and some of our favourite tools can change names and branding. Someone who would have undergone a digital security training several years ago might have been taught to use TextSecure, but times change and this tool has now been replaced by Signal.
