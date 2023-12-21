@@ -15,7 +15,17 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2023</h2>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Talk</p>
+<p class = "highlights_text">I co-organized a discussion about security nihilism among digital security trainers and how we can combat it at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2023, Costa Rica</a></p>
+
+<p class = "highlights_header">Pro bono projects</p>
+<p class = "highlights_text">Taught dissident groups effective holistic security strategies (further details available on request)</p>
+
+<p class = "highlights_header">Training</p>
+<p class = "highlights_text">Digital security trainer at the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2023 summer school</p>
+
+
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Organised a digital security training as part of a HEFAT (hostile environment/ first aid training), allowing me to better explore the interplay between digital and physical security and how our pedagogies can account for that</p>
 
 &nbsp;
@@ -26,13 +36,13 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_header">Publications</p>
 <p class = "highlights_text">Co-authored a series of journalist digital security guides for Internews, including on <a href = "https://internews.org/resource/device-location-security/" target = "_blank">device location security</a> and <a href = "https://internews.org/resource/security-considerations-when-engaging-sensitive-sources/" target = "_blank">working with sensitive sources</a></p>
 
-<p class = "highlights_header">Teaching</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Digital security trainer at the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2022 summer school</p>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Ran a digital security training for Fulbright scholars with the <a href = "https://en.fulbright.edu.pl" target="_blank">Polish-U.S. Fulbright Commission</a></p>
 
-<p class = "highlights_header">Pro bono projects</p>
+<p class = "highlights_header">Pro bono project</p>
 <p class = "highlights_text">Supported and advised several NGOs and nonprofits on effective digital security strategies</p>
 
 
@@ -73,13 +83,13 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2020</h2>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led remote digital security classes for Lebanese students</p>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led digital security classes for activists and journalists as part of the <i>Digital and Media Literacy for NGOs</i> training organised by the <a href = "https://digicomnet.org/" target = "_blank">Digital Communication Network</a></p>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Attended the month-long <a href = "https://usable.tools/axis2020/" target = "_blank">AXIS</a> programme, both as a participant and a skillshare speaker</p>
 
 <p class = "highlights_header">Research</p>
@@ -94,7 +104,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_header">Major project</p>
 <p class = "highlights_text">Programme designer and head facilitator for the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2020 summer school</p>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led digital security classes for activists (Sarajevo)</p>
 
 <p class = "highlights_header">Major project</p>
@@ -121,7 +131,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_header">Talk</p>
 <p class = "highlights_text">What influencers need to know about AI, <i>Digital Influencers in Action, Budva, Montenegro</i></p>
 
-<p class = "highlights_header">Trainings</p>
+<p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led digital security classes for students (Warsaw) and activists (Sarajevo)</p>
 
 <p class = "highlights_header">Interview</p>
@@ -139,7 +149,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_text">Programme designer and head facilitator for the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2018 summer school</p>
 
 <p class = "highlights_header">Talk</p>
-<p class = "highlights_text"><a href = "https://www.youtube.com/watch?v=wZRwwBh1TAk" target="_blank"</a>Algorytmy, media społecznościowe oraz dziennikarstwo (Algorithms, social media, and journalism), <i>Media Przyszłości, Warsaw, Poland</i></p>
+<p class = "highlights_text"><a href = "https://www.youtube.com/watch?v=wZRwwBh1TAk" target="_blank">Algorytmy, media społecznościowe oraz dziennikarstwo (Algorithms, social media, and journalism)</a>, <i>Media Przyszłości, Warsaw, Poland</i></p>
 
 <p class = "highlights_header">Talk</p>
 <p class = "highlights_text">AI, Machine Learning, and Journalism, <i>ARIJ18, Dead Sea, Jordan</i></p>
