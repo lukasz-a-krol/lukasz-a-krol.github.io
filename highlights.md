@@ -19,7 +19,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_text">I co-organized a discussion about security nihilism among digital security trainers and how we can combat it at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2023, Costa Rica</a></p>
 
 <p class = "highlights_header">Pro bono projects</p>
-<p class = "highlights_text">Taught dissident groups effective holistic security strategies (further details available on request)</p>
+<p class = "highlights_text">Taught several dissident and activist groups effective holistic security strategies (further details available on request)</p>
 
 <p class = "highlights_header">Training</p>
 <p class = "highlights_text">Digital security trainer at the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2023 summer school</p>
