@@ -62,7 +62,7 @@ a {
    body {margin-left: 10px; margin-right: 10px; background-image: none; background-color: #f8f8f8}
    .content {background: #f8f8f8;}
    .home #sidebar header ~ *, .home #sidebar p.lead {display:none;}
-   #sidebar {padding: 0.5rem; line-height: 0; width: 100% !important; border-right: 0px !important;}
+   #sidebar {padding: 0.5rem; line-height: 0; width: 100% !important; border-right: 0px !important; overflow-x: hidden;}
 	 #sidebar a {line-height: 0 !important; padding-left: 0px !important; font-size: 15px !important;}
    #mobile_appear {display:contents !important; margin-left: 100px; text-align: center;}
    #mobile_twitter_logo {margin: auto; margin-top: 35px; margin-bottom: 20px;}
