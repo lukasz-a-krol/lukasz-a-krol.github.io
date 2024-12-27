@@ -47,6 +47,7 @@ a {
    #mobile_appear {display:none !important;}
 	 #intouch_front {position: absolute; top: 0; right: 0;}
 	 .container {margin-left: 200px;}
+	 #thanks-mobile {display: none;}
 }
 
 
@@ -73,6 +74,7 @@ a {
 	 #frontpage {padding-top: 0px !important;}
 	 .site-title a {border: 0px !important; font-family: 'Inter'; margin-left: 15px !important;}
 	 .hidiv {height: 0px;}
+	 #thanks-mobile {font-size: small; text-align: center;}
 }
 
 .mobile {border: #268bd2 0.3px solid; width: 30%; margin: auto;}
@@ -224,4 +226,19 @@ h1.site-title {
 
 #galleryimg {
   margin-bottom: 100px;
+}
+
+#thanks {
+	bottom: 0;
+  position: absolute;
+  padding-left: 5pt;
+	font-size: small;
+}
+
+#thanks a {
+	font-size: small;
+	border: none;
+	line-height: 100%;
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
 }

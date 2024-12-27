@@ -6,7 +6,6 @@ highlighter:      rouge
 title:            Łukasz's website!
 #tagline:          'A Jekyll theme'
 description:     'Hey,<br> I&apos;m Łukasz!<br><br>'
-# url:              https://fongandrew.github.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -28,7 +27,7 @@ plugins:
 
 
 
-url: lukasz-a-krol.github.io
+url: lukaszkrol.net
 baseurl: /
 
 # Sidebar link settings
