@@ -119,7 +119,8 @@ img {
 
 #sidebar {
 	top: 0;
-	border-right: solid black 1px;
+	border-right: solid black;
+	border-width: 0 1px 1px 1px;
 	padding: 0 0 0 0;
 }
 
