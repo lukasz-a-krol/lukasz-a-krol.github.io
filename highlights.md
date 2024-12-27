@@ -18,10 +18,13 @@ The following is a selected list of talks, projects, and articles I've done over
 <p class = "highlights_text">Led digital security introductory trainings during journalism workshops in Kraków, Poland (with <a href = "https://www.kew.org.pl/" target = "_blank">Kolegium Europy Wschodniej</a>) and Prague, Czech Republic (with the <a href = "https://www.bakalafoundation.org/en/programs/achilles-data/" target = "_blank">Achilles Data</a> programme).</p>
 
 <p class = "highlights_header">Workshop</p>
-<p class = "highlights_text">I co-facilitated a discussion about accidental and deliberate insider threats within digital rights focused nonprofits, how we can talk about them, and what we could do to mitigate them at the <a href = "https://wiki.digitalrights.community/index.php?title=Global_Gathering" target = "_blank">2024 Global Gathering in Estoril, Portugal</a></p>
+<p class = "highlights_text">Co-facilitated a discussion about accidental and deliberate insider threats within digital rights focused nonprofits, how we can talk about them, and what we could do to mitigate them at the <a href = "https://wiki.digitalrights.community/index.php?title=Global_Gathering" target = "_blank">2024 Global Gathering in Estoril, Portugal</a></p>
 
 <p class = "highlights_header">Training</p>
 <p class = "highlights_text">Digital security trainer at the <a href = "https://www.weasa.org" target = "_blank">WEASA</a> 2024 summer school</p>
+
+<p class = "highlights_header">Pro bono work</p>
+<p class = "highlights_text">Worked with various groups and individuals to strengthen their operational and digital security (further details available on request)</p>
 
 &nbsp;
 &nbsp;
