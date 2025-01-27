@@ -9,10 +9,22 @@ permalink: /highlights/
 
 The following is a selected list of talks, projects, and articles I've done over the past years.
 
+
+&nbsp;
+&nbsp;
+
+<h2 class = "year">2025</h2>
+
+<p class = "highlights_header">Pro bono work</p>
+<p class = "highlights_text">I've just started some pro bono security assessments for at-risk activists (further details available on request)</p>
+
 &nbsp;
 &nbsp;
 
 <h2 class = "year">2024</h2>
+
+<p class = "highlights_header">Day job</p>
+<p class = "highlights_text">Our team successfully launched the <a href = "https://infuse.quest" target = "_blank">Infuse</a> and <a href = "https://saferjourno.org" target = "_blank">SaferJourno</a> digital safety curricula! </p>
 
 <p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led digital security introductory trainings during journalism workshops in Kraków, Poland (with <a href = "https://www.kew.org.pl/" target = "_blank">Kolegium Europy Wschodniej</a>) and Prague, Czech Republic (with the <a href = "https://www.bakalafoundation.org/en/programs/achilles-data/" target = "_blank">Achilles Data</a> programme).</p>
