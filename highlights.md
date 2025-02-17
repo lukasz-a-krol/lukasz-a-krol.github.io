@@ -16,7 +16,7 @@ The following is a selected list of talks, projects, and articles I've done over
 <h2 class = "year">2025</h2>
 
 <p class = "highlights_header">Day job</p>
-<p class = "highlights_text">Our team started started publishing to and maintain our <a href = "https://github.com/OpenInternet/Infosec-infosheets" target = "_blank">Infosec infosheets</a> repository!
+<p class = "highlights_text">Our team started started publishing to and maintaining our <a href = "https://github.com/OpenInternet/Infosec-infosheets" target = "_blank">Infosec infosheets</a> repository!
 
 
 
