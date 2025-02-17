@@ -15,6 +15,11 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2025</h2>
 
+<p class = "highlights_header">Day job</p>
+<p class = "highlights_text">Our team started started publishing to and maintain our <a href = "https://github.com/OpenInternet/Infosec-infosheets" target = "_blank">Infosec infosheets</a> repository!
+
+
+
 <p class = "highlights_header">Pro bono work</p>
 <p class = "highlights_text">I've just started some pro bono security assessments for at-risk activists (further details available on request)</p>
 
