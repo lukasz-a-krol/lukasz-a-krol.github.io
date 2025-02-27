@@ -17,7 +17,7 @@ The following is a selected list of talks, projects, and articles I've done over
 
 
 <p class = "highlights_header">Workshop</p>
-<p class = "highlights_text">Co-facilitated a discussion with other digital security trainers about integrating simulation games, tabletop exercises, and fellowships into our trainings. Remote participant at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2025a</a></p>
+<p class = "highlights_text">Co-facilitated a discussion with other digital security trainers about integrating simulation games, tabletop exercises, and fellowships into our trainings. Remote participant at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2025</a></p>
 
 
 <p class = "highlights_header">Day job</p>
