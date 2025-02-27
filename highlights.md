@@ -15,6 +15,11 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2025</h2>
 
+
+<p class = "highlights_header">Workshop</p>
+<p class = "highlights_text">Co-facilitated a discussion with other digital security trainers about integrating simulation games, tabletop exercises, and fellowships into our trainings. Remote participant at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2025a</a></p>
+
+
 <p class = "highlights_header">Day job</p>
 <p class = "highlights_text">Our team started started publishing to and maintaining our <a href = "https://github.com/OpenInternet/Infosec-infosheets" target = "_blank">Infosec infosheets</a> repository!
 
