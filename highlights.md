@@ -15,6 +15,9 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2025</h2>
 
+<p class = "highlights_header">Training</p>
+<p class = "highlights_text">Led digital security trainings on messenger safety and phishing prevention (with <a href = "https://www.kew.org.pl/" target = "_blank">Kolegium Europy Wschodniej</a>)</p>
+
 
 <p class = "highlights_header">Workshop</p>
 <p class = "highlights_text">Co-facilitated a discussion with other digital security trainers about integrating simulation games, tabletop exercises, and fellowships into our trainings. Remote participant at <a href= "https://www.rightscon.org/" target = "_blank">RightsCon 2025</a></p>
