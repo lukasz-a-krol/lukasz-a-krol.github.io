@@ -15,6 +15,9 @@ The following is a selected list of talks, projects, and articles I've done over
 
 <h2 class = "year">2025</h2>
 
+<p class = "highlights_header">New day job</p>
+<p class = "highlights_text">Joined <a href = "https://www.lighthousereports.com/" target = "_blank">Lighthouse Reports</a> as a part-time infosec expert</p>
+
 <p class = "highlights_header">Training</p>
 <p class = "highlights_text">Led digital security trainings on messenger safety and phishing prevention (with <a href = "https://www.kew.org.pl/" target = "_blank">Kolegium Europy Wschodniej</a>)</p>
 
