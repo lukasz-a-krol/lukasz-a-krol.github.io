@@ -10,10 +10,16 @@ permalink: /highlights/
 The following is a selected list of talks, projects, and articles I've done over the past years.
 
 
+
+
 &nbsp;
 &nbsp;
 
 <h2 class = "year">2025</h2>
+
+
+<p class = "highlights_header">New day job</p>
+<p class = "highlights_text">Joined the <a href = "https://www.icrc.org/en/where-we-work/luxembourg" target = "_blank">ICRC Global Cyber Hub</a> in Luxembourg!</p>
 
 <p class = "highlights_header">New day job</p>
 <p class = "highlights_text">Joined <a href = "https://www.lighthousereports.com/" target = "_blank">Lighthouse Reports</a> as a part-time infosec expert</p>
